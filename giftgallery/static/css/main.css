@@ -1,0 +1,14 @@
+.main:hover{
+    transform: scale(1.2);
+    z-index: 2;
+    background:rgb(173, 173, 216);
+}
+.main{
+    transition: 4s;
+}
+.cat:hover{
+    transition: 4s;
+    transform: scale(1.2);
+    z-index: 2;
+    background: pink;
+}
